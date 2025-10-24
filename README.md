@@ -51,12 +51,9 @@ The dataset used for model training and evaluation includes common cardiovascula
 
 | Metric        | Score |
 |----------------|-------|
-| Accuracy       | *Varies based on dataset* |
-| Precision      | *Evaluated during testing* |
-| Recall         | *Evaluated during testing* |
-| F1-Score       | *Balanced measure of performance* |
-
-*(You can update these values later based on your final evaluation results.)*
+| Model          | **K-Nearest Neighbors (KNN)** |
+| Accuracy       | **0.8859** |
+| F1-Score       | **0.8986** |
 
 ---
 
