@@ -6,7 +6,7 @@ It offers users a quick and reliable way to assess their heart health based on k
 ---
 
 ## 🌐 Live Demo
-👉 [Launch the App](#)  
+👉 [Launch the App](https://heartsense622.streamlit.app/)  
 *(Link will be added soon once deployed on Streamlit Cloud)*
 
 ---
