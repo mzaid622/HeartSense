@@ -7,7 +7,6 @@ It offers users a quick and reliable way to assess their heart health based on k
 
 ## 🌐 Live Demo
 👉 [Launch the App](https://heartsense622.streamlit.app/)  
-*(Link will be added soon once deployed on Streamlit Cloud)*
 
 ---
 
@@ -81,12 +80,6 @@ The dataset used for model training and evaluation includes common cardiovascula
 **Muhammad Zaid Ashfaq**  
 📍 UET Lahore | Data Analyst & Machine Learning Enthusiast  
 💬 *"Turning data into insights that matter."*
-
----
-
-## 🏷️ License
-
-This project is open-source and available under the **MIT License**.
 
 ---
 
